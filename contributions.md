@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 2   | [Link](https://www.openstreetmap.org/user/johnnydyq123/history)    | OpenStreetMap  |   Added a bunch of details to the vicinity of my home    |
 |     |     |     |      |
 |     |     |     |      |
